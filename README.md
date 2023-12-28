@@ -1,5 +1,9 @@
 # Handwritten Letter Recognition with MLP
 
+## Overview
+
+This project is based on the content presented by Jabril from PBS Crash Course AI on YouTube. The original code and concepts are credited to Jabril. You can watch his video on the topic [here](https://www.youtube.com/watch?v=6nGCGYWMObE&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=6).
+
 ## Problem
 
 Recognizing handwritten letters is a non-trivial task due to the inherent variability in how different individuals write. This project addresses the challenge of handwritten letter recognition, specifically focusing on converting handwritten letters into typed text. The problem involves training a machine learning model to accurately identify handwritten letters and convert them to their corresponding typed characters.
