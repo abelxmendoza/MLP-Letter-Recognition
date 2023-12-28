@@ -8,6 +8,12 @@ Recognizing handwritten letters is a non-trivial task due to the inherent variab
 
 Handwritten Letter Recognition with MLP is a project that leverages the power of Multi-Layer Perceptron (MLP) neural networks to tackle the problem of recognizing handwritten letters. This repository provides a comprehensive solution that includes data preprocessing, model training, testing, and application to handwritten text.
 
+![1703804855013](image/README/1703804855013.png)
+
+## **Ink to Insight - Abel Mendoza**
+
+Deciphering the Code: AI's Leap from Handwriting to Digital Clarity
+
 ## Concepts
 
 ### Multi-Layer Perceptron (MLP)
